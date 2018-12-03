@@ -1,4 +1,4 @@
-# Operating Systems Blitz Project 5 
+# Implementation-of-system-calls-by-user-level-processes-to-kernel-in-blitz 
 
 In this project, we will explore user-level processes. We will create a single process, running in its own address space. When this user-level process executes, the CPU will be in user mode. 
 The user-level process will make system calls to the kernel, which will cause the CPU to switch into system mode.
